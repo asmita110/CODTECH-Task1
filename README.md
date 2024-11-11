@@ -1,17 +1,24 @@
 Name: ASMITA TAMBE
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS8771
+
 Domain: Cyber Security & Ethical Hacking
+
 Duration: October to November 2024
+
 Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the project
 project: Password Strength Checker
-a
+
 objective
+
 The objective of this project is to develop a reliable and efficient password strength checker tool that evaluates the strength of a user’s password based on criteria such as length, complexity, and uniqueness. This tool aims to help users create stronger, more secure passwords by providing immediate feedback and recommendations to enhance password quality. By assessing factors like the presence of uppercase and lowercase letters, numbers, special characters, and avoiding common patterns, the tool encourages users to adopt passwords that are harder to guess or crack, thereby enhancing overall cybersecurity.
 
 Key Activities:
+
 1. Requirements Gathering:
 Identify essential password criteria (e.g., length, complexity, uniqueness) to define what constitutes a strong password.
 2. Designing the Algorithm:
@@ -34,6 +41,7 @@ Provide a user guide on how to use the password strength checker effectively.
 Explore additional features, like checking against a larger database of common passwords or calculating password entropy for advanced strength metrics.
 
 Technologies used:
+
 Python: A popular choice due to its simplicity and availability of libraries like re (regular expressions) for pattern matching.
 
 
